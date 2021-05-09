@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**Reysson/Reysson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello 😄
 
-Here are some ideas to get you started:
+My name is Reysson Martins, I'm from Brazil 🇧🇷 In constant learning in web development 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Student of Systems Analysis and Development, always looking to learn every day a drop of knowledge in this immensity of the ocean that we call programming. 🤩
+
+#### 🦕 "Em que século nós estamos? " 🌿🤔
+
+- 📍 From RR living in Boa Vista
+- 🧑🏽‍💻 Developer Web
+
+Reach me out 👇🏽
+
+[![Linkedin Badge](https://img.shields.io/badge/-Leonardo%20Carvalho-0F6CA6?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/reysson-martins-a53b0820a/)](https://www.linkedin.com/in/reysson-martins-a53b0820a/) 
+
